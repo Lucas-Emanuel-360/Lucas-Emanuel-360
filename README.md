@@ -25,3 +25,6 @@
 
 </div>
 </footer>
+ 
+ 
+  ![Snake animation](https://github.com/Lucas-Emanuel-360/Lucas-Emanuel-360/blob/output/github-contribution-grid-snake.svg)
