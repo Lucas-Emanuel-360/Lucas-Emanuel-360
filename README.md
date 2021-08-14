@@ -7,4 +7,4 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Emanuel-360&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<div> <img height="260em" src="https://c.tenor.com/OnI4rZbF3DYAAAAC/kiyotaka-ayanokoji-you-zitsu.gif" </img>
+<div> <img margin-top="10em" height="260em" src="https://c.tenor.com/OnI4rZbF3DYAAAAC/kiyotaka-ayanokoji-you-zitsu.gif" </img>
