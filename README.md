@@ -1,4 +1,5 @@
-<h1> Estudante do IFNMG - Campus MOC</h1>
+<h1> Um pouco sobre mim </h1>
+<p> - Estudante do IFNMG - Campus MOC </p>
 <p> - Meu nome é Lucas Emanuel Rodrigues Silva Maia </p>
 <p> - Sei um pouco de HTML, CSS, C++, JS, C </p>
 <p> - Pretendo estudar sobre Python e Java </p>
