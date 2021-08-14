@@ -6,3 +6,5 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Emanuel-360&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Emanuel-360&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+<div> <img height="180em" src="https://c.tenor.com/OnI4rZbF3DYAAAAC/kiyotaka-ayanokoji-you-zitsu.gif" </img>
