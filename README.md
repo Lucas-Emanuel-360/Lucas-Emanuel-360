@@ -9,9 +9,6 @@
 </div>
 <br>
 <br>
-<div class="gif"> <img align="center" height="260em" src="https://c.tenor.com/OnI4rZbF3DYAAAAC/kiyotaka-ayanokoji-you-zitsu.gif" </img>
-<br>
-<br>
 <br>
 <footer>
  <p> - Pretendo estudar mais sobre: </p>
