@@ -12,8 +12,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
 <footer>
  <p> - Pretendo estudar mais sobre: </p>
 <div>
