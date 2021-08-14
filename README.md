@@ -8,4 +8,9 @@
 </div>
 <br>
 <br>
-<div> <img align="center" height="210em" src="https://c.tenor.com/OnI4rZbF3DYAAAAC/kiyotaka-ayanokoji-you-zitsu.gif" </img>
+<div class="gif"> <img align="center" height="210em" src="https://c.tenor.com/OnI4rZbF3DYAAAAC/kiyotaka-ayanokoji-you-zitsu.gif" </img>
+ 
+ <style> .gif {
+   align = center;
+  }
+  </style}
