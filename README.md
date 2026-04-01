@@ -2,7 +2,7 @@
 <h3 align="center"> Estudante de Ciência da Computação | Desenvolvedor Web e Software </h3>
 
 <p align="center">
-  🎓 Graduando em Ciência da Computação no IFNMG - Campus MOC (previsão 2028)<br>
+  🎓 Graduando em Ciência da Computação no IFNMG - Campus MOC<br>
   💻 Focado em Desenvolvimento Web, Engenharia de Software e Integração com Hardware
 </p>
 
@@ -13,7 +13,6 @@
 - 🌱 Tenho conhecimentos e atuo com **Desenvolvimento Web** (`HTML`, `CSS` e `JavaScript`) e linguagens de base (`C` e `C++`).
 - 🐍 Além de sistemas web, também desenvolvo em **Python** e crio automações de hardware e IoT utilizando **Arduino**.
 - 🎯 Gosto de entender como as coisas funcionam nos bastidores, desde a estruturação de uma página web até o gerenciamento de memória em projetos C/C++.
-- ⚡ **Curiosidade:** Nas horas vagas, produzo Rap Geek pro meu canal no YouTube ou pesquiso sobre mecânica e customização de motos!
 
 ### 🛠️ Minhas Habilidades
 
@@ -31,9 +30,9 @@
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
 
 ### 🚀 Alguns Projetos em Andamento
-- **CineIF:** Sistema de gerenciamento de banco de dados de filmes em C++, com foco em estruturação de classes e leitura de arquivos.
+
 - **RoboBlocks:** IDE de programação para ensino sendo desenvolvida em conjunto com o IFNMG.
-- **Automação de Aquaponia:** Sistema integrado de 158L com Arduino para controle de ambiente e sensores de temperatura (DS18B20).
+- **Automação de Aquaponia:** Sistema integrado de 158L com Arduino para controle de ambiente.
 
 ---
 
