@@ -35,7 +35,7 @@
 ### 🚀 Alguns Projetos em Andamento
 
 - **RoboBlocks:** IDE de programação para ensino sendo desenvolvida em conjunto com o IFNMG.
-- **Automação de Aquaponia:** Sistema integrado de 158L com Arduino para controle de ambiente.
+- **Automação de Aquaponia:** Sistema integrado com Arduino para controle de ambiente.
 
 ---
 
