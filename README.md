@@ -42,7 +42,7 @@
 - **RoboBlocks:** IDE de programação para ensino sendo desenvolvida em conjunto com o IFNMG.
 - **Automação de Aquaponia:** Sistema integrado com Arduino para controle de ambiente.
 
-> <img src="Logo%20LuK3.png" width="120" align="right">
+> <a href="https://github.com/LuK3-Code" target="_blank"><img src="Logo%20LuK3.png" width="120" align="right" alt="Logo LuK3-Code"></a>
 >
 > 📦 **Procurando por mais códigos?**
 > Para manter este perfil focado nos meus projetos principais e mais robustos, criei a organização **[LuK3-Code](https://github.com/LuK3-Code)**. Acesse lá para conferir meus projetos mais simples, experimentos de código, exercícios da faculdade e testes de novas tecnologias!
